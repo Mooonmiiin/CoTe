@@ -1,1 +1,0 @@
-mkdir C:\Users\noon9\aaa\data -Forc
